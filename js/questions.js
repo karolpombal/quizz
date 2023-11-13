@@ -55,6 +55,61 @@ let questions = [
       "118"
     ]
   },
+  {
+    numb: 6,
+    question: "O que a palavra 'legend' significa em português?",
+    answer: "Lenda",
+    options: [
+      "Legenda",
+      "Conto",
+      "História",
+      "Lenda"
+    ]
+  },
+  {
+    numb: 7,
+    question: "Quanto tempo a luz do Sol demora para chegar à Terra?",
+    answer: "8 minutos",
+    options: [
+      "12 minutos",
+      "5 horas",
+      "8 minutos",
+      "12 segundos"
+    ]
+  },
+  {
+    numb: 8,
+    question: "Qual a nacionalidade de Che Guevara?",
+    answer: "Cubana",
+    options: [
+      "Cubana",
+      "Boliviana",
+      "Argentina",
+      "Peruana"
+    ]
+  },
+  {
+    numb: 9,
+    question: "Em que período da pré-história o fogo foi descoberto?",
+    answer: "Paleolítico",
+    options: [
+      "Neolítico",
+      "Paleolítico",
+      "Período da Pedra Polida",
+      "Idade Média"
+    ]
+  },
+  {
+    numb: 10,
+    question: "Qual a montanha mais alta do Brasil?",
+    answer: "Pico da Neblina",
+    options: [
+      "Pico da Neblina",
+      "Pico Paraná",
+      "Monte Roraima",
+      "Pico da Bandeira"
+    ]
+  }
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
