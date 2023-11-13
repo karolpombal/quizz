@@ -13,7 +13,7 @@ body{
 
 ::selection{
     color: #fff;
-    background: #007bff;
+    background: #7B68EE;
 }
 
 .start_btn,
@@ -40,7 +40,7 @@ body{
 .start_btn button{
     font-size: 25px;
     font-weight: 500;
-    color: #007bff;
+    color: #6A5ACD;
     padding: 15px 30px;
     outline: none;
     border: none;
@@ -51,7 +51,7 @@ body{
 }
 .start_btn button:hover{
     transform: scale(1.5);
-    color: rgb(90, 0, 187);
+    color: rgb(72,61,139);
 }
 
 .info_box{
@@ -87,7 +87,7 @@ body{
 
 .info_box .info-list .info span{
     font-weight: 600;
-    color: #007bff;
+    color: #9370DB;
 }
 .info_box .buttons{
     height: 60px;
@@ -141,9 +141,9 @@ body{
 }
 
 .quiz_box header .timer{
-    color: #004085;
+    color: #8A2BE2;
     background: #cce5ff;
-    border: 1px solid #b8daff;
+    border: 1px solid #9932CC;
     height: 45px;
     padding: 0 8px;
     border-radius: 5px;
