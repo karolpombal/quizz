@@ -6,53 +6,53 @@ let questions = [
     answer: "Descartes",
     options: [
       "Platão",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "Galileu Galilei",
+      "Descartes",
+      "Sócrates"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+    answer: "João Goulart",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "Jânio Quadros",
+      "Getúlio Vargas",
+      "João Figueiredo",
+      "João Goulart"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "Quais o menor e o maior país do mundo?",
+    answer: "Vaticano e Rússia",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "Vaticano e Rússia",
+      "Nauru e China",
+      "Mônaco e Canadá",
+      "São Marino e Índia"
     ]
   },
   {
     numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
-    answer: "12",
+    question: "Quantas casas decimais tem o número pi?",
+    answer: "Infinitas",
     options: [
-      "12",
-      "11",
-      "14",
-      "13"
+      "Duas",
+      "Centenas",
+      "Infinitas",
+      "Milhares"
     ]
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
+    question: "Atualmente, quantos elementos químicos a tabela periódica possui?",
+    answer: "118",
     options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+      "113",
+      "109",
+      "108",
+      "118"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
